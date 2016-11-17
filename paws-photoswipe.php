@@ -5,7 +5,7 @@
  * Plugin URI: https://github.com/cferdinandi/paws-photoswipe
  * GitHub Plugin URI: https://github.com/cferdinandi/paws-photoswipe
  * Description: A WordPress plugin for <a href="https://github.com/dimsemenov/PhotoSwipe">PhotoSwipe image galleries</a>.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Chris Ferdinandi
  * Author URI: http://gomakethings.com
  * License: All rights reserved

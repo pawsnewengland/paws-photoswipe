@@ -79,8 +79,8 @@
 	function paws_photoswipe_theme_options_render_page() {
 		?>
 		<div class="wrap">
-			<?php screen_icon(); ?>
 			<h2><?php _e( 'PhotoSwipe Photo Galleries', 'paws_photoswipe' ); ?></h2>
+			<?php settings_errors(); ?>
 
 			<form method="post" action="options.php">
 				<?php
